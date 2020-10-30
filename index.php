@@ -2,10 +2,10 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Kwanpitcha Imdod</title>
+        <title>Jubu</title>
     </head>
     <body>
-        <h1>Puifai</h1>
+        <h1> Kwanpitcha Imdod (Puifai)</h1>
         <p>hi! everyone</p>
         <img src="unnamed.jpg">
         <img src="name.png">
