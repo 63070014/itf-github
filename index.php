@@ -1,28 +1,20 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Hello</title>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
-</head>
-<body>
-    <div class="container">
-        <div class="row">
-            <div class="col-sm-6" style="padding: 0%; margin: 0%">
-                <img src="img/work/work1.jpg" style="height: 600px" class="img-fluid" />
-            </div>
-            <div class="col-sm-3" style="padding: 0%; margin: 0%">
-                <img src="img/work/work2.jpg" style="height: 200px" class="img-fluid" />
-                <img src="img/work/work4.jpg" style="height: 200px" class="img-fluid" />
-                <img src="img/work/work5.jpg" style="height: 200px" class="img-fluid" />
-            </div>
-            <div class="col-sm-3" style="padding: 0%; margin: 0%">
-                <img src="img/work/work3.jpg" style="height: 400px" class="img-fluid" />
-                <img src="img/work/work6.jpg" style="height: 200px" class="img-fluid" />
-            </div>
-        </div> <!-- Close Row 2 -->
-    </div> <!-- Close container -->
-</body>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Kwanpitcha Imdod</title>
+    </head>
+    <body>
+        <h1>Puifai</h1>
+        <p>hi! everyone</p>
+        <img src="unnamed.jpg">
+        <img src="name.png">
+        <br>
+        <a href="https://www.pinterest.com/">This is a my fav Link</a>
+        
+        <h2>เรื่องตลกในวันนี้ก็คือ</h2>
+        <ul>
+            <li>คุณครูให้เล่าเรื่องตลกมา 1 เรื่อง แต่หนูเป็นคนไม่ค่อยตลก เลยไม่รู้ว่าจะเล่ายังไงดี แต่ว่าจิงๆแล้วหนูก้แอบเป็นคนตลก ถ้าให้หนูเล่าก็อาจจะตลกเกินไป หนูก็เลยคิดหนักมากๆเลยว่าหนูจะเล่าเรื่องอะไรดี ถ้าให้เล่าตอนนี้หนูเกรงว่าคุณครูจะขำจนถึงพรุ่งนี้ ถ้าวันนี้ให้หนูเล่าเลย ถ้าคุณครูอยากกฟังจริงๆ หนูก็อยากจะเล่าให้มันตลกมากๆ เพราะ จริงๆแล้วหนูก้มีเรื่องตลกหลายๆเรื่องที่จะมาเล่าให้ฟังอยู่เยอะเลย</li>
+        </ul>
+    </body>
 </html>
